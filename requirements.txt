@@ -4,3 +4,4 @@ numpy
 tensorflow
 keras
 matplotlib
+djitellopy
